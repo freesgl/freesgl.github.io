@@ -33,7 +33,7 @@ a[target="_blank"]:after {
 #sidebar li {border-bottom:1px solid #EFEFF7;}
 #sidebar li a {color:#3B7FCC;; text-decoration:none; padding:3px; display:block;}
 #sidebar li a:hover {background-color:#EFEFF7;}
-#text {line-height:1.4em; margin-right:24%; padding:10px 20px 30px 10px; background-color: #ECF8FF;}
+#text {line-height:1.4em; margin-right:24%; padding:10px 30px 30px 20px; background-color: #ECF8FF;}
 #text h1 {font-size:24px; font-weight:bold; color:#1F416B; margin:20px 0 10px 0;}
 #text h2 {font-size:20px; font-weight:bold; color:#1F416B; margin:20px 0 10px 0;}
 #text ol, #text ul {padding:0; margin:8px 0; line-height:36px;}
